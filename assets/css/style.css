@@ -1,0 +1,56 @@
+body {
+    background-color: #000;
+}
+.color {
+    color:#fff;
+}
+nav img {
+    height: 40px;
+}
+main h2 {
+    color: #fff;
+    text-align: center;
+    padding: 30px;
+}
+main hr {
+    color: #0000ff;
+}
+.col {
+    color: #fff;
+    text-align: justify;
+}
+.quienesSomos {
+    margin: 20px;
+}
+.icono {
+    text-align: center;
+    background-color: #0000ff;
+    font-size: 30px;
+    color: #fff;
+}
+.destacados {
+    margin: 20px;
+}
+.destacados img {
+    width: 100%;
+    height: 200px;
+}
+.destacados p {
+    text-align: justify;
+    padding: 10px;
+}
+
+.card {
+    background-color: #0000ff;
+}
+.contacto {
+    margin: 20px;
+}
+footer {
+    text-align: center;
+    background-color: #0000ff;
+    font-size: 30px;
+    color: #fff;
+    padding-left: 250px;
+    padding-right: 250px;
+}
